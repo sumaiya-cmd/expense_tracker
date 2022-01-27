@@ -1,0 +1,38 @@
+h2{
+    color:rgb(5, 5, 63);
+}
+
+.showcomp{
+    margin-top: 50px;
+    height: 20vmin;
+    width: 40vmin;
+    /* background-color: green; */
+}
+
+.showexp{
+    width: 40vmin;
+    height: 10vmin;
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+    border: 1px solid rgb(129, 126, 126);
+    background-color: #fff;
+    box-shadow: 0px 0px 10px rgb(92, 92, 92);
+    text-align: center;
+}
+
+.expensemoney{
+    color: rgb(229, 145, 145);
+}
+
+.incomemoney{
+    color: rgb(142, 214, 142);
+}
+
+.showexp2{
+    margin-left: 20px;
+}
+
+hr{
+    opacity: 0.5;
+}

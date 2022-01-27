@@ -1,0 +1,24 @@
+.transactioncomp{
+    height: 30vmin;
+    width: 40vmin;
+    /* background-color: yellow; */
+}
+
+input{
+    width: 30vmin;
+    height: 4vmin;
+    padding: 10px;
+    border: 1px solid rgb(168, 166, 166);
+}
+
+button{
+    background-color: #fff;
+    outline:none ;
+    padding: 5px 10px;
+    margin-left:10px ;
+    border: 1px solid rgb(168, 166, 166);
+}
+
+hr{
+    margin-bottom: -5px;
+}

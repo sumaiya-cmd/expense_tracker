@@ -1,0 +1,24 @@
+.historycomp{
+    width: 50vmin;
+    height: 40vmin;
+    /* background-color: red; */
+    padding: 10px 20px;
+    overflow: auto;
+}
+
+.hist{
+    margin-bottom: 20px;
+}
+
+.list2{
+    width: 100%;
+    height: 4vmin;
+    background-color: rgb(245, 248, 245);
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px ;
+    border: 1px solid rgb(187, 184, 184);
+    /* box-shadow: 5px 10px 10px rgb(92, 92, 92); */
+}
